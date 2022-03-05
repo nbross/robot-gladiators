@@ -1,4 +1,4 @@
-/* GAME FUNCTIONS */
+/* GAME FUNCTIONS JS */
 
 // function to generate a random numeric value
 var randomNumber = function(min, max) {
